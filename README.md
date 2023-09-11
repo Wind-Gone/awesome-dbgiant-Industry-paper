@@ -3,6 +3,20 @@ Welcome new PR, please conform to the committed rules:  paperName(with link) [Me
 
 If the paper has the open-source code, please supply its github links in Meeting.
 
+- [DBGiant-Industry-Paper](#dbgiant-industry-paper)
+  - [Google](#google)
+  - [Amazaon](#amazaon)
+  - [Tencent](#tencent)
+  - [Alibaba](#alibaba)
+    - [OceanBase](#oceanbase)
+    - [PolarDB](#polardb)
+  - [Oracle](#oracle)
+  - [Bytedance](#bytedance)
+  - [Huawei](#huawei)
+  - [Microsoft](#microsoft)
+  - [Intel](#intel)
+  - [Meta](#meta)
+  - [Snowflake](#snowflake)
 
 
 ## Google
