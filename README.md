@@ -1,9 +1,15 @@
-# DBGiant-Industry-Paper
-Welcome new PR, please conform to the committed rules:  paperName(with link) [MeetingName Year]
+<div align="center">
+
+# Awesome-DBGiant-Industry-Paper [![666](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated paper list of awesome Industry <b>databases, frameworks, ressources, tools</b> and other awesomeness, for data engineers.
+
+Welcome new PR, please conform to the committed rules: paperName(with link) [MeetingName Year]
 
 If the paper has the open-source code, please supply its github links in Meeting.
+</div>
 
-- [DBGiant-Industry-Paper](#dbgiant-industry-paper)
+- [Awesome-DBGiant-Industry-Paper ](#awesome-dbgiant-industry-paper-)
   - [Google](#google)
   - [Amazaon](#amazaon)
   - [Tencent](#tencent)
