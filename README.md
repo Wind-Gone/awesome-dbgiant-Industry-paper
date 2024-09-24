@@ -24,6 +24,8 @@ If the paper has the open-source code, please supply its github links in Meeting
   - [Meta](#meta)
   - [Snowflake](#snowflake)
   - [Databrics](#databrics)
+  - [SingleStore](#singlestore)
+  - [ClickHouse](#clickhouse)
 
 
 ## Google
@@ -33,14 +35,16 @@ If the paper has the open-source code, please supply its github links in Meeting
 ## Amazaon
 1. [Amazon Redshift and the Case for Simpler Data Warehouses](https://15721.courses.cs.cmu.edu/spring2024/papers/22-redshift/p1917-gupta.pdf) [SIGMOD 15]
 2. [Amazon Redshift Re-invented](https://15721.courses.cs.cmu.edu/spring2024/papers/22-redshift/redshift-sigmod2022.pdf) [SIGMOD 22]
-3. [The Story of AWS Glue](https://www.vldb.org/pvldb/vol16/p3557-saxena.pdf) [VLDB 23]
-4. [Auto-WLM: ML-enhanced workload management in Amazon Redshift](https://dl.acm.org/doi/pdf/10.1145/3555041.3589677) [SIGMOD 23]
-5. [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](https://www.usenix.org/system/files/atc22-elhemali.pdf) [OSDI 22]
+3. [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](https://www.usenix.org/system/files/atc22-elhemali.pdf) [OSDI 22]
+4. [The Story of AWS Glue](https://www.vldb.org/pvldb/vol16/p3557-saxena.pdf) [VLDB 23]
+5. [Auto-WLM: ML-enhanced workload management in Amazon Redshift](https://dl.acm.org/doi/pdf/10.1145/3555041.3589677) [SIGMOD 23]
+6. [Resource Management in Aurora Serverless](https://www.vldb.org/pvldb/vol17/p4038-urgaonkar.pdf) [VLDB 24]
 
 ## Tencent
 1. [Angel-PTM: A Scalable and Economical Large-scale Pre-training System in Tencent](https://arxiv.org/pdf/2303.02868.pdf) [VLDB 23]
 2. [EmbedX: A Versatile, Efficient and Scalable Platform to Embed Both Graphs and High-Dimensional Sparse Data](https://dl.acm.org/doi/pdf/10.14778/3611540.3611546) [VLDB 23]
 3. [Towards General and Efficient Online Tuning for Spark](https://arxiv.org/pdf/2309.01901v1.pdf) [VLDB 23]
+4. [TDSQL: Tencent Distributed Database System](https://www.vldb.org/pvldb/vol17/p3869-chen.pdf) [VLDB 24]
 
 
 ## Alibaba
@@ -58,14 +62,17 @@ If the paper has the open-source code, please supply its github links in Meeting
 
 ## Oracle
 1. [Automatic SQL Error Mitigation in Oracle](https://dl.acm.org/doi/pdf/10.14778/3611540.3611568) [VLDB 23]
+2. [Grouping, Subsumption, and Disjunctive Join Optimizations in Oracle](https://www.vldb.org/pvldb/vol17/p4200-pasupuleti.pdf) [VLDB 24]
 
 ## Bytedance
 1. [ByteHTAP: ByteDance’s HTAP System with High Data Freshness and Strong Data Consistency](https://www.vldb.org/pvldb/vol15/p3411-chen.pdf) [VLDB 22]
 2. [Krypton: Real-time Serving and Analytical SQL Engine at ByteDance](https://www.vldb.org/pvldb/vol16/p3528-chen.pdf) [VLDB 23]
 3. [VeDB: A Software and Hardware Enabled Trusted Relational Database](https://dl.acm.org/doi/pdf/10.1145/3589774) [SIGMOD 23]
+4. [LavaStore: ByteDance's Purpose-built, High-performance, Cost-effective Local Storage Engine for Cloud Services](https://www.vldb.org/pvldb/vol17/p3799-jiao.pdf) [VLDB 24]
 
 ## Huawei
 1. [Taurus MM: bringing multi-master to the cloud](https://www.vldb.org/pvldb/vol16/p3488-depoutovitch.pdf) [VLDB 23]
+2. [GaussDB: A Cloud-Native Multi-Primary Database with Compute-Memory-Storage Disaggregation](https://www.vldb.org/pvldb/vol17/p3786-li.pdf) [VLDB 24]
 
 ## Microsoft
 1. [POLARIS: The Distributed SQL Engine in Azure Synapse](https://15721.courses.cs.cmu.edu/spring2024/papers/23-synapse/p3204-saborit.pdf) [VLDB 20]
@@ -87,3 +94,10 @@ If the paper has the open-source code, please supply its github links in Meeting
 
 ## Databrics
 1. [Photon: A Fast Query Engine for Lakehouse Systems](https://15721.courses.cs.cmu.edu/spring2024/papers/18-databricks/sigmod_photon.pdf) [SIGMOD 22]
+
+## SingleStore
+1. [SingleStore-V: An Integrated Vector Database System in SingleStore](https://www.vldb.org/pvldb/vol17/p3772-chen.pdf) [VLDB 24]
+
+
+## ClickHouse
+1. [ClickHouse - Lightning Fast Analytics for Everyone](https://www.vldb.org/pvldb/vol17/p3731-schulze.pdf) [VLDB 24]
