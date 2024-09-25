@@ -2,14 +2,32 @@
 
 # Awesome-DBGiant-Industry-Paper [![666](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated paper list of awesome Industry <b>databases, frameworks, ressources, tools</b> and other awesomeness, for data engineers.
+[![Awesome DBGiant Industry Paper](https://img.shields.io/static/v1?label=&message=Awesome+DBGiant+Industry+Paper&color=black&logo=awesomelists)](https://github.com/Wind-Gone/awesome-dbgiant-Industry-paper)
+![](https://img.shields.io/github/last-commit/Wind-Gone/awesome-dbgiant-Industry-paper?color=green)
+![visitor badge](https://visitor-badge.lithub.cc/badge?page_id=Wind-Gone.awesome-dbgiant-Industry-paper)
+[![GitHub Repo stars](https://img.shields.io/github/stars/Wind-Gone/awesome-dbgiant-Industry-paper?style=social)](https://github.com/Wind-Gone/awesome-dbgiant-Industry-paper)
+[![GitHub Repo forks](https://img.shields.io/github/forks/Wind-Gone/awesome-dbgiant-Industry-paper?style=social)](https://github.com/Wind-Gone/awesome-dbgiant-Industry-paper)
+## Introduction
 
-Welcome new PR, please conform to the committed rules: paperName(with link) [MeetingName Year]
+A curated paper list of awesome <b>industry papers from various giant database vendors</b> and other awesomeness, for database researchers/engineers.
 
-If the paper has the open-source code, please supply its github links in Meeting.
-</div>
+## Contributing
+
+The repository is under construction.  Welcome new PR, please conform to the committed rules: 
+
+```bash
+paperName(with pdf link) [MeetingName Year] Github link if it has open-sourced code (optional)
+```
+## Acknowledge
+Thanks to all authors of the paper/repository I cite :D
+
+## Table of Content
 
 - [Awesome-DBGiant-Industry-Paper ](#awesome-dbgiant-industry-paper-)
+  - [Introduction](#introduction)
+  - [Contributing](#contributing)
+  - [Acknowledge](#acknowledge)
+  - [Table of Content](#table-of-content)
   - [Google](#google)
   - [Amazaon](#amazaon)
   - [Tencent](#tencent)
@@ -26,6 +44,7 @@ If the paper has the open-source code, please supply its github links in Meeting
   - [Databrics](#databrics)
   - [SingleStore](#singlestore)
   - [ClickHouse](#clickhouse)
+  - [Star History](#star-history)
 
 
 ## Google
@@ -101,3 +120,14 @@ If the paper has the open-source code, please supply its github links in Meeting
 
 ## ClickHouse
 1. [ClickHouse - Lightning Fast Analytics for Everyone](https://www.vldb.org/pvldb/vol17/p3731-schulze.pdf) [VLDB 24]
+
+
+## Star History
+
+<a href="https://star-history.com/#Wind-Gone/awesome-dbgiant-Industry-paper&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Wind-Gone/awesome-dbgiant-Industry-paper&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Wind-Gone/awesome-dbgiant-Industry-paper&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Wind-Gone/awesome-dbgiant-Industry-paper&type=Date" />
+  </picture>
+</a>
