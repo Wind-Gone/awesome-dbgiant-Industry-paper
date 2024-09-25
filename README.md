@@ -1,5 +1,3 @@
-<div align="center">
-
 # Awesome-DBGiant-Industry-Paper [![666](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Awesome DBGiant Industry Paper](https://img.shields.io/static/v1?label=&message=Awesome+DBGiant+Industry+Paper&color=black&logo=awesomelists)](https://github.com/Wind-Gone/awesome-dbgiant-Industry-paper)
