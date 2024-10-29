@@ -69,6 +69,7 @@ Thanks to all authors of the paper/repository I cite :D
 2. [Anser: Adaptive Information Sharing Framework of AnalyticDB](https://dl.acm.org/doi/pdf/10.14778/3611540.3611553) [VLDB 23]
 3. [Lindorm TSDB: A Cloud-native Time-series Database for Large-scale Monitoring Systems](https://dl.acm.org/doi/pdf/10.14778/3611540.3611559) [VLDB 23]
 4. [Vineyard: Optimizing Data Sharing in Data-Intensive Analytics](https://dl.acm.org/doi/pdf/10.1145/3589780) [SIGMOD 23]
+5. [Flux: Decoupled Auto-Scaling for Heterogeneous Query Workload in Alibaba AnalyticDB](https://dl.acm.org/doi/pdf/10.1145/3626246.3653381) [SIGMOD 24]
 ### OceanBase
 1. [OceanBase Paetica: A Hybrid Shared-nothing/Shared-everything Database for Supporting Single Machine and Distributed Cluster](https://www.vldb.org/pvldb/vol16/p3728-xu.pdf) [VLDB 23]
 
