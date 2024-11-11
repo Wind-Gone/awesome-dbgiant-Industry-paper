@@ -76,6 +76,7 @@ Thanks to all authors of the paper/repository I cite :D
 ### PolarDB
 1. [PolarDB-SCC: A Cloud-Native Database Ensuring Low Latency for Strongly Consistent Reads](https://www.vldb.org/pvldb/vol16/p3754-chen.pdf) [VLDB 23]
 2. [PolarDB-IMCI:A Cloud-Native HTAP Database System at Alibaba](https://arxiv.org/pdf/2305.08468.pdf) [SIGMOD 23]
+3. [PolarDB-MP: A Multi-Primary Cloud-Native Database via Disaggregated Shared Memory](https://dl.acm.org/doi/10.1145/3626246.3653377) [SIGMOD 24]
 
 
 ## Oracle
