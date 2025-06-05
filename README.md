@@ -115,7 +115,8 @@ Thanks to all authors of the paper/repository I cite :D
 1. [Photon: A Fast Query Engine for Lakehouse Systems](https://15721.courses.cs.cmu.edu/spring2024/papers/18-databricks/sigmod_photon.pdf) [SIGMOD 22]
 
 ## SingleStore
-1. [SingleStore-V: An Integrated Vector Database System in SingleStore](https://www.vldb.org/pvldb/vol17/p3772-chen.pdf) [VLDB 24]
+1. [Cloud-Native Transactions and Analytics in SingleStore](https://dl.acm.org/doi/pdf/10.1145/3514221.3526055) [SIGMOD 22]
+2. [SingleStore-V: An Integrated Vector Database System in SingleStore](https://www.vldb.org/pvldb/vol17/p3772-chen.pdf) [VLDB 24]
 
 
 ## ClickHouse
